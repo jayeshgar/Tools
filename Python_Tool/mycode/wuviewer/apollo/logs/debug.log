@@ -1,0 +1,1435 @@
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.007) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Setting scheduler
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for localhost.localdomain
+	Host: localhost.localdomain
+	Administration Port: 6817
+	Node Agent Port: 33143
+	Service Name: 
+	Node Name: localhost.localdomain
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/bex_node/./localhost.localdomain
+Configuration Path: /home/jayesh/bex_node/./localhost.localdomain/../configuration/localhost.localdomain
+Deployment Directories: /home/jayesh/bex_node/./localhost.localdomain/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2016-12-19 03:55:39 -0500 UTC
+Last Start Time: 2016-12-19 03:56:13 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for localhost.localdomain
+	Host: localhost.localdomain
+	Administration Port: 4117
+	Node Agent Port: 35161
+	Service Name: 
+	Node Name: localhost.localdomain
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/bex2/./localhost.localdomain
+Configuration Path: /home/jayesh/bex2/./localhost.localdomain/../configuration/localhost.localdomain
+Deployment Directories: /home/jayesh/bex2/./localhost.localdomain/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2016-12-19 23:15:38 -0500 UTC
+Last Start Time: 2016-12-19 23:16:01 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:4117]. Reason: Call to 'connect' failed: Connection refused [errno:111]
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:4117]. Reason: Call to 'connect' failed: Connection refused [errno:111]
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:2010]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Authentication of user [root] failed: Unable to authenticate principal [root]. This principal is not defined.
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Call to 'connect' failed: Connection refused [errno:111]
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Call to 'connect' failed: Connection refused [errno:111]
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+Failed to open a connection to the node at [localhost:7777]. Reason: Call to 'connect' failed: Connection refused [errno:111]
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 32891
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 01:36:45 -0500 UTC
+Last Start Time: 2017-01-02 01:36:49 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+ERROR: no command specified
+USAGE: administrator help
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 38318
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 02:24:38 -0500 UTC
+Last Start Time: 2017-01-02 02:24:41 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 38318
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 02:24:38 -0500 UTC
+Last Start Time: 2017-01-02 02:24:41 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 38318
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 02:24:38 -0500 UTC
+Last Start Time: 2017-01-02 02:24:41 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 46632
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 05:16:07 -0500 UTC
+Last Start Time: 2017-01-02 05:16:10 -0500 UTC
+
+ERROR: no command specified
+USAGE: administrator help
+
+ERROR: no command specified
+USAGE: administrator help
+
+ERROR: no command specified
+USAGE: administrator help
+
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+ERROR: no command specified
+USAGE: administrator help
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 41806
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 06:13:28 -0500 UTC
+Last Start Time: 2017-01-02 06:13:31 -0500 UTC
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 41806
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 06:13:28 -0500 UTC
+Last Start Time: 2017-01-02 06:13:31 -0500 UTC
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 41806
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 06:13:28 -0500 UTC
+Last Start Time: 2017-01-02 06:13:31 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+
+Node administration for A1
+	Host: localhost.localdomain
+	Administration Port: 2010
+	Node Agent Port: 33211
+	Service Name: 
+	Node Name: A1
+
+Engine Node::administration
+    State: running
+    Build type: PRODUCTION
+    Contains JVM: No
+
+Application: tibco/be-x
+Node Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1
+Configuration Path: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1
+Deployment Directories: /home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy
+Installation Path: /opt/tibco/be-x/1.1.2
+Node Description: Not available
+Install Time: 2017-01-02 23:31:53 -0500 UTC
+Last Start Time: 2017-01-02 23:31:56 -0500 UTC
+
+{'Node Description': 'Not available', 'State': 'running', 'Service Name': '', 'Host': 'localhost.localdomain', 'Deployment Directories': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy', 'Node Agent Port': '33211', 'Node Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1', 'Contains JVM': 'No', 'Engine Node': '', 'Build type': 'PRODUCTION', 'Configuration Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1', 'Administration Port': '2010', 'Install Time': '2017-01-02 23', 'Application': 'tibco/be-x', 'Last Start Time': '2017-01-02 23', 'Installation Path': '/opt/tibco/be-x/1.1.2', 'Node Name': 'A1'}
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+{'Node Description': 'Not available', 'State': 'running', 'Service Name': '', 'Host': 'localhost.localdomain', 'Deployment Directories': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy', 'Node Agent Port': '33211', 'Node Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1', 'Contains JVM': 'No', 'Engine Node': '', 'Build type': 'PRODUCTION', 'Configuration Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1', 'Administration Port': '2010', 'Install Time': '2017-01-02 23', 'Application': 'tibco/be-x', 'Last Start Time': '2017-01-02 23', 'Installation Path': '/opt/tibco/be-x/1.1.2', 'Node Name': 'A1'}
+{'Application': 'tibco/be-x', 'Node Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1', 'Administration Port': '2010', 'State': 'running', 'Service Name': '', 'Node Name': 'A1', 'Contains JVM': 'No', 'Host': 'localhost.localdomain', 'Installation Path': '/opt/tibco/be-x/1.1.2', 'Install Time': '2017-01-02 23', 'Deployment Directories': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy', 'Configuration Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1', 'Last Start Time': '2017-01-02 23', 'Build type': 'PRODUCTION', 'Engine Node': '', 'Node Agent Port': '33211', 'Node Description': 'Not available'}
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+{'Application': 'tibco/be-x', 'Node Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1', 'Administration Port': '2010', 'State': 'running', 'Service Name': '', 'Node Name': 'A1', 'Contains JVM': 'No', 'Host': 'localhost.localdomain', 'Installation Path': '/opt/tibco/be-x/1.1.2', 'Install Time': '2017-01-02 23', 'Deployment Directories': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy', 'Configuration Path': '/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1', 'Last Start Time': '2017-01-02 23', 'Build type': 'PRODUCTION', 'Engine Node': '', 'Node Agent Port': '33211', 'Node Description': 'Not available'}
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+Setting scheduler
+Setting scheduler
+Setting scheduler
+Setting scheduler
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"33211\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-02 23\",\"Last Start Time\":\"2017-01-02 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+Setting scheduler
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46361\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-03 23\",\"Last Start Time\":\"2017-01-03 23\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"46857\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-10 04\",\"Last Start Time\":\"2017-01-10 04\"}"
+Setting scheduler
+New connection added.
+from websocket connection of Consumer..
+"{\"Host\":\"localhost.localdomain\",\"Administration Port\":\"2010\",\"Node Agent Port\":\"45246\",\"Service Name\":\"\",\"Node Name\":\"A1\",\"Engine Node\":\"\",\"State\":\"running\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"No\",\"Engine application\":\"\",\"State\":\"stopped\",\"Build type\":\"PRODUCTION\",\"Contains JVM\":\"Yes\",\"Application\":\"tibco/be-x\",\"Node Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1\",\"Configuration Path\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../configuration/A1\",\"Deployment Directories\":\"/home/jayesh/Downloads/start_cluster/BUILD/nodes/A1/../deploy\",\"Installation Path\":\"/opt/tibco/be-x/1.1.2\",\"Node Description\":\"Not available\",\"Install Time\":\"2017-01-11 06\",\"Last Start Time\":\"2017-01-11 06\"}"

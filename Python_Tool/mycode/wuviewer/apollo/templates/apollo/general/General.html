@@ -1,0 +1,17 @@
+{% extends "apollo/index.html" %}
+{% block general %}
+<div layout="row">
+	<div>
+		<h3>Node Statistics</h3>
+   		<p id='displayNode'></p>
+	</div>
+	<div>
+		<md-input-container>
+  			<md-select ng-model="objectModel" placeholder="Select the object">
+    				<md-option ng-value="POSConfigDetails" >POSConfigDetails</md-option>
+				<md-option ng-value="SysTrace" >SysTrace</md-option>
+  			</md-select>
+		</md-input-container>
+	</div>	
+</div>
+{% endblock general %}	

@@ -1,0 +1,46 @@
+<html lang="en" >
+   {% load static %}
+   <head>
+      <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0/angular-material.min.css"/>
+      <link rel="stylesheet" href="{% static 'apollo/apollo.css' %}"/>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-aria.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-messages.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0/angular-material.min.js"></script>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+      <script src="{% static 'apollo/apollo.js' %}"></script> 
+      <script src="{% static 'apollo/index.js' %}"></script> 
+   </head>
+   <body ng-app="firstApplication"> 
+        
+	<div id="tabContainer" ng-controller="tabController as ctrl" ng-cloak>
+         <md-content class="md-padding">
+            <md-tabs class="md-accent" md-dynamic-height="true">
+               <md-tab id="tab1">
+                  <md-tab-label>General</md-tab-label>
+                  <md-tab-body>
+			
+				{% block general %}
+				<p>Block is not rendered</p>
+				{%endblock general %}
+			
+	           </md-tab-body>
+               </md-tab>
+               <md-tab id="tab2">
+                  <md-tab-label>Performance</md-tab-label>
+                  <md-tab-body>
+                        <div class="basic">{% include "apollo/perf/Performance.html" %}</div>
+                   </md-tab-body>
+               </md-tab>
+               <md-tab id="tab3">
+                  <md-tab-label>Analytics</md-tab-label>
+                  <md-tab-body>
+                        <div class="basic">{% include "apollo/analytics/Analytics.html" %}</div>
+                   </md-tab-body>
+               </md-tab>
+            </md-tabs>
+         </md-content>
+      </div>
+   </body>
+</html>

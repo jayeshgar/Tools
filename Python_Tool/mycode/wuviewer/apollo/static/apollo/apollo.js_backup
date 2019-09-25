@@ -1,0 +1,61 @@
+
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+var app = angular.module("mainApp", ["ngRoute"]);
+app.config(function($routeProvider) {
+    $routeProvider
+    .when("/General", {
+        templateUrl : "General.htm",
+	controller  : "generalCtrl"
+    })
+    .when("/Performance", {
+        templateUrl : "Performance.htm",
+        controller : "performanceCtrl"
+    })
+    .when("/Analytics", {
+        templateUrl : "Analytics.htm",
+        controller : "analyticsCtrl"
+    });
+});
+app.controller("generalCtrl", function ($scope) {
+    $scope.msg = {{ cmdresult }};
+});
+app.controller("performanceCtrl", function ($scope) {
+    $scope.msg = "Not yet implemented.";
+});
+app.controller("analyticsCtrl", function ($scope) {
+    $scope.msg = "Not yet implemented.";
+});
+
+
+angular
+            .module('firstApplication', ['ngMaterial'])
+            .controller('tabController', tabController);
+
+          function tabController ($scope) {            
+             $scope.data = {
+                selectedIndex: 0,
+                secondLocked:  true,
+                secondLabel:   "2",
+                bottom:        false
+             };
+             $scope.next = function() {
+                $scope.data.selectedIndex = Math.min($scope.data.selectedIndex + 1, 2) ;
+             };
+             $scope.previous = function() {
+                $scope.data.selectedIndex = Math.max($scope.data.selectedIndex - 1, 0);
+             };
+          }       
+
